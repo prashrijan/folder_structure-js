@@ -1,16 +1,16 @@
 const fileStructure = [
     {
         id: 1,
-        name: "Week 2 PQMS",
+        name: "File 1",
         folders: [
             {
                 id: 2,
-                name: "Tutorial 1",
+                name: "Folder 1",
                 folders: []
             },
             {
                 id: 3,
-                name: "Tutorial 2",
+                name: "Folder 2",
                 folders: [
                     {
                         id: 4,
@@ -23,16 +23,16 @@ const fileStructure = [
     },
     {
         id: 5,
-        name: "Week 3 PQMS",
+        name: "File 2",
         folders: [
             {
                 id: 6,
-                name: "Tutorial 3",
+                name: "Folder 3",
                 folders: []
             },
             {
                 id: 7,
-                name: "Tutorial 4",
+                name: "Folder 4",
                 folders: [
                     {
                         id: 8,
